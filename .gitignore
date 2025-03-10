@@ -1,0 +1,11 @@
+*/__pychache__/
+*/.pytest_cache/
+*/.vscode/
+/.vscode/
+/-p/
+*.env
+*.log
+*.pyc
+*.pyo
+*.txt
+*.html
