@@ -7,7 +7,7 @@ This project is free and open source. Any Open Contributions are higly appreciat
 
 ****
 
-**Making AI Free for All**
+
 
 ## Project Structure
 
